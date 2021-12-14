@@ -1,0 +1,32 @@
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe.config
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.pdb
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.Properties.Resources.resources
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.csproj.GenerateResource.Cache
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.exe
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.pdb
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormProgramador.resources
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormCalculadora.resources
+D:\2021\2J\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormTemperatura.resources
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe.config
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.exe
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.pdb
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.pdb
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.csprojResolveAssemblyReference.cache
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormTemperatura.resources
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormCalculadora.resources
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormProgramador.resources
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.Properties.Resources.resources
+C:\Users\gibea\Downloads\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.csproj.GenerateResource.Cache
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe.config
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.exe
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.pdb
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.exe
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\bin\Debug\prjCalculadora2J.pdb
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.csprojResolveAssemblyReference.cache
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormTemperatura.resources
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormCalculadora.resources
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.FormProgramador.resources
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.Properties.Resources.resources
+C:\Users\gibea\Documents\2 Modulo Etec\ETEC - D.S - AQUILES\prjCalculadora2JVF\prjCalculadora2J\prjCalculadora2J\obj\Debug\prjCalculadora2J.csproj.GenerateResource.Cache
